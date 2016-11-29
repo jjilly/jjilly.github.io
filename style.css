@@ -1,6 +1,6 @@
 ﻿html, body {
   margin: 0;
-  padding-top:
+  background-color:#000000;
 }
 *{
     text-align:center;
@@ -48,6 +48,9 @@ p{
   background-color:#000000;
   color:#FFF;
   background-image:url("images/water.jpg");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
 }
 .supporting{
   text-align:center;
